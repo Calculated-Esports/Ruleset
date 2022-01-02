@@ -138,7 +138,7 @@ Defined as actions or statements that offend the dignity or integrity of a perso
 
 ### 4.4 Behavior Investigation
 
-CE Management members at their sole discretion may engage in a player behavior investigation if they believe that a member has violated the official rules of CE. Violations may lead to assigned penalties. These are listed in {{link}}.
+CE Management members at their sole discretion may engage in a player behavior investigation if they believe that a member has violated the official rules of CE. Violations may lead to assigned penalties. These are listed in https://github.com/Calculated-Esports/Rules/blob/main/README.md#punishments.
 
 ### 4.5 Confidentiality / Blackmailing
 
@@ -226,7 +226,7 @@ Failure to use the correct discord channel for correct purpose will not face ser
 
 ### 6.6 Punishment: Team Tasks
 
-Each member of a CE Team have tasks of responsible, listed in {{link}}. Failure to follow your tasks = may result in you losing your position as Captain and/or Manager, and can also make you lose your spot as a player. 
+Each member of a CE Team have tasks of responsible, listed in https://github.com/Calculated-Esports/Rules/blob/main/README.md#teams-and-tasks. Failure to follow your tasks = may result in you losing your position as Captain and/or Manager, and can also make you lose your spot as a player. 
 
 ### 6.7 Punishment: Any other rule
 
